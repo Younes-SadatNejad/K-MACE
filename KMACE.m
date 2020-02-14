@@ -6,7 +6,7 @@ function [cnc,IDX] = KMACE(data,mmin,mmax)
 % "K-MACE and Kernel K-MACE Clustering"
 % IEEE ACCESS (2020)
 % Website: https://www.ee.ryerson.ca/~soosan/
-% Code Developement: Faizan Rahman 
+% Code Developement: Faizan Rahman , Younes Sadat-Nejad
 % Contact Info: soosan@ee.ryerson.ca 
 % Copy right February 2020
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %%
