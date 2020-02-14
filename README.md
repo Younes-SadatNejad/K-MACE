@@ -1,5 +1,4 @@
 # K-MACE and Kernel K-MACE Clustering
-Soosan Beheshti, Edward Nidoy, and Faizan Rahman
 ## Abstract
 Determining the correct number of clusters (CNC)
 is an important task in data clustering and has a critical effect on
