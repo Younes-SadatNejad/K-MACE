@@ -1,7 +1,5 @@
 # K-MACE and Kernel K-MACE Clustering
 Soosan Beheshti, Edward Nidoy, and Faizan Rahman
-An algorithm for determining the correct number of clusters using Average Central Error (ACE) criterion
-
 ## Abstract
 Determining the correct number of clusters (CNC)
 is an important task in data clustering and has a critical effect on
