@@ -1,4 +1,5 @@
-# K-MACE
+# K-MACE and Kernel K-MACE Clustering
+Soosan Beheshti, Edward Nidoy, and Faizan Rahman
 An algorithm for determining the correct number of clusters using Average Central Error (ACE) criterion
 
 ## Abstract
@@ -18,3 +19,7 @@ parameters. Simulation results for both synthetic and real data
 show superiority of K-MACE and kernel K-MACE over the
 conventional clustering methods not only in CNC estimation but
 also in the partitioning procedure
+
+
+## CITE:
+S. Beheshti, E. Nidoy, and F. Rahman “K-MACE and Kernel K-MACE clustering”, to appear in IEEE Access, 2020.  
