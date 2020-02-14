@@ -21,3 +21,7 @@ also in the partitioning procedure
 
 ## CITE:
 S. Beheshti, E. Nidoy, and F. Rahman “K-MACE and Kernel K-MACE clustering”, to appear in IEEE Access, 2020.  
+
+
+## How to use:
+Use KMACE.m or Kernel_KMACE.m codes with data as input, to obtain the number of clusters as output
